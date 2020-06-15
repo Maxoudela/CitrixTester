@@ -1,4 +1,4 @@
-JavaFX Maven Plugin
+Citrix 'XML Spreadsheet' tester
 ===================
 
 Simple application that prints the content of the System clipboard using JAVAFX API each time the "Paste from clipboard" button is clicked.
