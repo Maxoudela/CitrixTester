@@ -1,2 +1,6 @@
 CitrixTester/nbactions.xml
 CitrixTester/nb-configuration.xml
+/CitrixTester/target/
+/target/
+nb-configuration.xml
+nbactions.xml
